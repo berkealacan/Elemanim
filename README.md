@@ -5,7 +5,7 @@ Proje Kategorisi: İş ve Kariyer
 
 Referans Uygulama: isinolsun.com
 
-Grup Adı: Brath
+Grup Adı: Maws
 
 Proje Ekibi: Berke Alacan
 
